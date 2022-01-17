@@ -25,8 +25,8 @@ export const projects = [
 			"My Portfolio website where you can learn more about me and the projects that I've built so far! Since my main focus is React.js, I decided to build this Portfolio Website using a Server Side Rendering such as Next.js.",
 		image: '/images/pwst.png',
 		tags: ['React', 'Next.js', 'Styled Components'],
-		source: 'https://google.com',
-		visit: 'https://google.com',
+		source: 'https://benedict-ryan.vercel.app/',
+		visit: 'https://github.com/Ben888GitHub/benedict-ryan',
 		id: 2
 	},
 	{
