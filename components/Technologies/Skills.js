@@ -16,7 +16,7 @@ export const Skills = [
 		Component: DiReact,
 		title: 'React',
 		Description: () => (
-			<>Most of my projects are built with Create-React-App or Next.js</>
+			<>Most of my projects are built with React.js and Next.js</>
 		)
 	},
 	{
