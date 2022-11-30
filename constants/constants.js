@@ -30,13 +30,13 @@ export const projects = [
 		id: 2
 	},
 	{
-		title: 'NFTs Marketplace',
+		title: 'Cinema Platform',
 		description:
-			'A Basic Marketplace for NFTs. This is a decentralized application based on Web 3.0 that pulls NFTs data you created and published in Opensea. The application is built using React and Thirdweb SDK.',
-		image: '/images/nm.png',
-		tags: ['React', 'Thirdweb', 'Ethers.js'],
-		source: 'https://nfts-market-site.netlify.app/',
-		visit: 'https://github.com/Ben888GitHub/nfts-marketplace-site',
+			'A Responsive Cinema Web Application that allows viewers and fans to search and bookmark their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, Search and Bookmark Film.',
+		image: '/images/csa.png',
+		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API', 'Vercel'],
+		source: 'https://project-movie-app.vercel.app/',
+		visit: 'https://github.com/Ben888GitHub/project-movie-app',
 		id: 3
 	}
 ];
