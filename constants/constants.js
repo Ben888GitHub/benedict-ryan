@@ -34,7 +34,7 @@ export const projects = [
 		description:
 			'A Responsive Cinema Web Application that allows viewers and fans to search and bookmark their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, Search and Bookmark Film.',
 		image: '/images/csa.png',
-		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API', 'Vercel'],
+		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API'],
 		source: 'https://project-movie-app.vercel.app/',
 		visit: 'https://github.com/Ben888GitHub/project-movie-app',
 		id: 3
