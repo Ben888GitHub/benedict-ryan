@@ -1,5 +1,15 @@
 export const projects = [
 	{
+		title: 'Cinema Platform',
+		description:
+			'A Responsive Cinema Web Application that allows viewers and fans to search and bookmark their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, Search and Bookmark Film.',
+		image: '/images/csa.png',
+		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API'],
+		source: 'https://project-movie-app.vercel.app/',
+		visit: 'https://github.com/Ben888GitHub/project-movie-app',
+		id: 3
+	},
+	{
 		title: 'Money Manager',
 		description:
 			'An Application that provides the main features of Creating Income and Expense transactions along with visualizing the transactions data in graphs made with Chart.js. Authentication is done using Firebase Auth and all transaction data are stored in Cloud Firestore. Additionally, the application supports dark mode and it is deployed on Firebase Hosting.',
@@ -29,16 +39,7 @@ export const projects = [
 		visit: 'https://github.com/Ben888GitHub/benedict-ryan',
 		id: 2
 	},
-	{
-		title: 'Cinema Platform',
-		description:
-			'A Responsive Cinema Web Application that allows viewers and fans to search and bookmark their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, Search and Bookmark Film.',
-		image: '/images/csa.png',
-		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API'],
-		source: 'https://project-movie-app.vercel.app/',
-		visit: 'https://github.com/Ben888GitHub/project-movie-app',
-		id: 3
-	}
+	
 ];
 
 export const TimeLineData = [
