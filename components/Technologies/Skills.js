@@ -10,8 +10,8 @@ import {
 	SiTypescript,
 	SiBootstrap
 } from 'react-icons/si';
-import { RiFlutterFill } from 'react-icons/ri';
-import { FaNodeJs } from 'react-icons/fa';
+import { TbApi } from 'react-icons/tb';
+
 /*
 	NextJs
 	React Query
@@ -62,7 +62,7 @@ export const Skills = [
 		Description: () => (
 			<>
 				I incorporate Vercel Edge Functions and Deployment for all my NextJS
-				projects
+				projects.
 			</>
 		)
 	},
@@ -73,7 +73,7 @@ export const Skills = [
 		Description: () => (
 			<>
 				Redux or Context API are used mostly in larger applications for State
-				Management
+				Management.
 			</>
 		)
 	},
@@ -109,6 +109,17 @@ export const Skills = [
 			</>
 		)
 	},
+	{
+		slug: 'react query',
+		Component: TbApi,
+		title: 'React Query',
+		Description: () => (
+			<>
+				I make use of React Query to optimize all API Functions across my
+				project.
+			</>
+		)
+	},
 
 	{
 		slug: 'bootstrap',
@@ -116,8 +127,8 @@ export const Skills = [
 		title: 'Bootstrap',
 		Description: () => (
 			<>
-				Beside Tailwind, Bootstrap is the UI Framework that I normally use for
-				my basic prototype projects or POCs
+				Beside Tailwind, Bootstrap is the UI Framework that I use for my basic
+				prototype projects or POCs.
 			</>
 		)
 	}
