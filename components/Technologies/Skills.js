@@ -114,7 +114,7 @@ export const Skills = [
 		Description: () => (
 			<>
 				I make use of React Query to optimize all API Functions across my
-				project.
+				projects.
 			</>
 		)
 	},
