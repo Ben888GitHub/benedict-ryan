@@ -20,16 +20,6 @@ export const projects = [
 		id: 0
 	},
 	{
-		title: 'Shopping Tracker',
-		description:
-			'Shopping Tracker Platform that allows users to upload, edit, and delete products they want to purchase. In Addition, features include product filtering and bulk delete,  I built this app as an opportunity to grasp the concept and understanding of better Online Shopping or E-Commerce Development.',
-		image: '/images/st.png',
-		tags: ['React', 'JavaScript', 'Bootstrap'],
-		source: 'https://ben888github.github.io/project-shopping-tracker/#/',
-		visit: 'https://github.com/Ben888GitHub/project-shopping-tracker',
-		id: 1
-	},
-	{
 		title: 'Portfolio Website',
 		description:
 			"My Portfolio website where you can learn more about me and the projects that I've built so far! Since my main focus is React.js, I decided to build this Portfolio Website using a Server Side Rendering such as Next.js.",
@@ -38,6 +28,16 @@ export const projects = [
 		source: 'https://benedict-ryan.vercel.app/',
 		visit: 'https://github.com/Ben888GitHub/benedict-ryan',
 		id: 2
+	},
+	{
+		title: 'Shopping Tracker',
+		description:
+			'Shopping Tracker Platform that allows users to upload, edit, and delete products they want to purchase. In Addition, features include product filtering and bulk delete,  I built this app as an opportunity to grasp the concept and understanding of better Online Shopping or E-Commerce Development.',
+		image: '/images/st.png',
+		tags: ['React', 'JavaScript', 'Bootstrap'],
+		source: 'https://ben888github.github.io/project-shopping-tracker/#/',
+		visit: 'https://github.com/Ben888GitHub/project-shopping-tracker',
+		id: 1
 	}
 ];
 
