@@ -1,6 +1,6 @@
 import { DiReact, DiTerminal } from 'react-icons/di';
 import {
-	SiJava,
+	SiVercel,
 	SiFirebase,
 	SiGit,
 	SiRedux,
@@ -54,11 +54,14 @@ export const Skills = [
 		)
 	},
 	{
-		slug: 'firebase',
-		Component: SiFirebase,
-		title: 'Firebase',
+		slug: 'vercel',
+		Component: SiVercel,
+		title: 'Vercel',
 		Description: () => (
-			<>I have used Firebase for auth, database & analytics in my apps.</>
+			<>
+				I incorporate Vercel Edge Functions and Deployment for all my NextJS
+				projects
+			</>
 		)
 	},
 	{
@@ -72,6 +75,15 @@ export const Skills = [
 			</>
 		)
 	},
+	{
+		slug: 'firebase',
+		Component: SiFirebase,
+		title: 'Firebase',
+		Description: () => (
+			<>I have used Firebase for auth, database & analytics in my apps.</>
+		)
+	},
+
 	{
 		slug: 'graphql',
 		Component: SiGraphql,
