@@ -6,7 +6,8 @@ import {
 	SiRedux,
 	SiGraphql,
 	SiNetlify,
-	SiNextdotjs
+	SiNextdotjs,
+	SiTypescript
 } from 'react-icons/si';
 import { RiFlutterFill } from 'react-icons/ri';
 import { FaNodeJs } from 'react-icons/fa';
@@ -72,6 +73,17 @@ export const Skills = [
 			<>
 				Redux or Context API are used mostly in larger applications for State
 				Management
+			</>
+		)
+	},
+	{
+		slug: 'typescript',
+		Component: SiTypescript,
+		title: 'TypeScript',
+		Description: () => (
+			<>
+				TypeScript helps me to optimize the Code Quality & Readability (Clean
+				Code Practices).
 			</>
 		)
 	},
