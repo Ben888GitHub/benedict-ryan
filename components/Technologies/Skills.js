@@ -2,15 +2,13 @@ import { DiReact, DiTerminal } from 'react-icons/di';
 import {
 	SiVercel,
 	SiFirebase,
-	SiGit,
 	SiRedux,
 	SiTailwindcss,
-	SiNetlify,
+	SiReacttable,
 	SiNextdotjs,
 	SiTypescript,
 	SiBootstrap
 } from 'react-icons/si';
-import { TbApi } from 'react-icons/tb';
 
 /*
 	NextJs
@@ -111,7 +109,7 @@ export const Skills = [
 	},
 	{
 		slug: 'react query',
-		Component: TbApi,
+		Component: SiReacttable,
 		title: 'React Query',
 		Description: () => (
 			<>
