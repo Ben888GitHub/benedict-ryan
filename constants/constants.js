@@ -2,7 +2,7 @@ export const projects = [
 	{
 		title: 'TMDB Film Explorer',
 		description:
-			'A Responsive Film Explorer that allows viewers and fans to search and explore their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, and Search Movies & TV Shows.',
+			'A Responsive Film Explorer application that allows viewers and fans to search and explore their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, and Search Movies & TV Shows.',
 		image: '/images/csa.png',
 		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API'],
 		source: 'https://project-movie-app.vercel.app/',
