@@ -73,8 +73,8 @@ const Timeline = () => {
 				that empower business growth. Demonstrated passion in{' '}
 				<span style={{ fontWeight: 'bold' }}>
 					Responsive Web Design, Progressive Web Apps, Single Page Apps,
-					Networking, Data Storage, Extended Reality, Serverless Architecture &
-					Web Security.
+					Networking, Data Storage, SEO Optimization, Web Analytics, Extended
+					Reality, Serverless Architecture & Web Security.
 				</span>
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>
