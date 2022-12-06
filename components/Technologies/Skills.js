@@ -45,14 +45,14 @@ export const Skills = [
 			<>Most of my projects are built with React.js and Next.js</>
 		)
 	},
-	// {
-	// 	slug: 'react',
-	// 	Component: DiReact,
-	// 	title: 'React',
-	// 	Description: () => (
-	// 		<>Most of my projects are built with React.js and Next.js</>
-	// 	)
-	// },
+	{
+		slug: 'react',
+		Component: DiReact,
+		title: 'React',
+		Description: () => (
+			<>Most of my projects are built with React.js and Next.js</>
+		)
+	},
 	{
 		slug: 'firebase',
 		Component: SiFirebase,
