@@ -67,13 +67,13 @@ const Timeline = () => {
 		<Section id="about">
 			<SectionTitle>About Me</SectionTitle>
 			<SectionText>
-				Creative Web Developer with experience working in front-end web and
-				mobile applications development projects with{' '}
+				Creative Web Developer with experience working in front-end web
+				applications development projects with{' '}
 				<span style={{ fontWeight: 'bold' }}>Scrum/Agile methodology </span>
 				that empower business growth. Demonstrated passion in{' '}
 				<span style={{ fontWeight: 'bold' }}>
 					Responsive Web Design, Progressive Web Apps, Single Page Apps,
-					Networking, Data Storage, Web Security & Web3.
+					Networking, Data Storage, & Web Security.
 				</span>
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>

@@ -21,7 +21,7 @@ const Technologies = () => (
 		<SectionTitle>Skills</SectionTitle>
 		<SectionText>
 			As a Front-end Developer, I&apos;ve worked with a range of technologies to
-			build Web and Mobile Applications.
+			build Web Applications.
 		</SectionText>
 		<List>
 			{Skills.map((Skill) => (
