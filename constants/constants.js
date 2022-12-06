@@ -1,8 +1,8 @@
 export const projects = [
 	{
-		title: 'Cinema Platform',
+		title: 'TMDB Film Explorer',
 		description:
-			'A Responsive Cinema Web Application that allows viewers and fans to search and bookmark their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, Search and Bookmark Film.',
+			'A Responsive Film Explorer that allows viewers and fans to search and explore their favorite Movies and TV Shows. Features include Dark Mode Support, Pagination, and Search Movies & TV Shows.',
 		image: '/images/csa.png',
 		tags: ['NextJS', 'TailwindCSS', 'React Query', 'TMDB API'],
 		source: 'https://project-movie-app.vercel.app/',
@@ -38,8 +38,7 @@ export const projects = [
 		source: 'https://benedict-ryan.vercel.app/',
 		visit: 'https://github.com/Ben888GitHub/benedict-ryan',
 		id: 2
-	},
-	
+	}
 ];
 
 export const TimeLineData = [
