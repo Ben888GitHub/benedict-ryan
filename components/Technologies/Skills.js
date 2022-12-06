@@ -5,20 +5,54 @@ import {
 	SiGit,
 	SiRedux,
 	SiGraphql,
-	SiNetlify
+	SiNetlify,
+	SiNextdotjs
 } from 'react-icons/si';
 import { RiFlutterFill } from 'react-icons/ri';
 import { FaNodeJs } from 'react-icons/fa';
+/*
+	NextJs
+	React Query
+	Vercel
+	Redux
+	Typescript
+	Netlify
+	Firebase
+	TailwindCSS
+	Bootstrap
+*/
+
+/*
+	BitDev
+	NX Monorepo
+	Webflow
+	Shopify
+	Figma
+	Framer
+	ThreeJS
+	Builder
+	Windframe
+	Jira
+
+*/
 
 export const Skills = [
 	{
-		slug: 'react',
-		Component: DiReact,
-		title: 'React',
+		slug: 'next',
+		Component: SiNextdotjs,
+		title: 'NextJS',
 		Description: () => (
 			<>Most of my projects are built with React.js and Next.js</>
 		)
 	},
+	// {
+	// 	slug: 'react',
+	// 	Component: DiReact,
+	// 	title: 'React',
+	// 	Description: () => (
+	// 		<>Most of my projects are built with React.js and Next.js</>
+	// 	)
+	// },
 	{
 		slug: 'firebase',
 		Component: SiFirebase,
